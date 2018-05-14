@@ -1,0 +1,84 @@
+FCC: imap://spam%40rafi0t.fr@mail.rafi0t.fr/Sent
+X-Identity-Key: id2
+X-Account-Key: account7
+To: receiver@mail2misp.local
+From: test@mail2misp.local
+Subject: This is a spamtrap test - trickbot
+Openpgp: preference=signencrypt
+Autocrypt: addr=test@mail2misp.local; prefer-encrypt=mutual; keydata=
+ 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 vuDW
+X-Enigmail-Draft-Status: N11100
+Message-ID: <81e0c8ae-27e5-9eb0-71fa-9afe6f3d0bfd@rafi0t.fr>
+Date: Mon, 14 May 2018 16:05:09 -0400
+X-Mozilla-Draft-Info: internal/draft; vcard=0; receipt=0; DSN=0; uuencode=0;
+ attachmentreminder=0; deliveryformat=4
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
+ Thunderbird/52.7.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Language: en-GB
+Content-Transfer-Encoding: 8bit
+
+8.8.8.8
+
+circl.lu
+
+https://misp.software:80/foobar.html
+
+https://google.com
+
+https://virustotal.com
+
+https://internal.system.local
+
+https://api.ipify.org
+
+https://9.9.9.9
+
+https://dsafasdfdsfsdfdsfdsfds.local
+
+d41d8cd98f00b204e9800998ecf8427e
+da39a3ee5e6b4b0d3255bfef95601890afd80709
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+TLP white
