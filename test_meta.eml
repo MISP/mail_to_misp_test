@@ -1,0 +1,66 @@
+FCC: imap://spam%40rafi0t.fr@mail.rafi0t.fr/Sent
+X-Identity-Key: id2
+X-Account-Key: account7
+From: test@mail2misp.local
+Subject: This is a spamtrap test - trickbot
+To: receiver@mail2misp.local
+Message-ID: <106526bb-3097-0173-cd77-e78fd0911687@rafi0t.fr>
+X-Enigmail-Draft-Status: N11100
+Date: Thu, 2 Aug 2018 16:19:11 +0200
+X-Mozilla-Draft-Info: internal/draft; vcard=0; receipt=0; DSN=0; uuencode=0;
+ attachmentreminder=0; deliveryformat=4
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
+ Thunderbird/52.9.1
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------507DD488044FBEFB49268D2B"
+Content-Language: en-GB
+
+This is a multi-part message in MIME format.
+--------------507DD488044FBEFB49268D2B
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+m2m:m2mkey:YOUSETYOURKEYHERE
+m2m:distribution:3
+m2m:threat_level:2
+m2m:analysis:0
+m2m:publish:1
+
+
+8.8.8.8
+
+circl.lu
+
+https://misp.software:80/foobar.html
+
+https://google.com
+
+https://virustotal.com
+
+https://internal.system.local
+
+https://api.ipify.org
+
+https://9.9.9.9
+
+https://dsafasdfdsfsdfdsfdsfds.local
+
+d41d8cd98f00b204e9800998ecf8427e
+da39a3ee5e6b4b0d3255bfef95601890afd80709
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+TLP white
+
+
+--------------507DD488044FBEFB49268D2B
+Content-Type: text/csv;
+ name="blah.csv"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="blah.csv"
+
+foo,bar
+
+
+--------------507DD488044FBEFB49268D2B--
