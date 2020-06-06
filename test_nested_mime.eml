@@ -1,0 +1,47 @@
+FCC: imap://spam%40rafi0t.fr@mail.rafi0t.fr/Sent
+X-Identity-Key: id2
+X-Account-Key: account7
+Subject: Inline forward - Fwd: This is a spamtrap test with attachment
+References: <81e0c8ae-27e5-9eb0-71fa-9afe6f3d0bfd@rafi0t.fr>
+From: fwdtest@mail2misp.local
+X-Enigmail-Draft-Status: N11100
+X-Forwarded-Message-Id: <81e0c8ae-27e5-9eb0-71fa-9afe6f3d0bfd@rafi0t.fr>
+Message-ID: <a25be6ed-7cfb-4655-fc3e-71e68f969fad@rafi0t.fr>
+Date: Mon, 14 May 2018 16:31:18 -0400
+X-Mozilla-Draft-Info: internal/draft; vcard=0; receipt=0; DSN=0; uuencode=0;
+ attachmentreminder=0; deliveryformat=4
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
+ Thunderbird/52.7.0
+MIME-Version: 1.0
+In-Reply-To: <81e0c8ae-27e5-9eb0-71fa-9afe6f3d0bfd@rafi0t.fr>
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="vtyx5lhB7z5dcex6MXWhyspN3Wknd6ZJI"
+
+--vtyx5lhB7z5dcex6MXWhyspN3Wknd6ZJI
+Content-Type: multipart/mixed; boundary="V3pgTSGev7krnLgdPlHjOEC2m7nXRICcd"
+
+--V3pgTSGev7krnLgdPlHjOEC2m7nXRICcd
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Content-Language: en-GB
+
+example.org
+www.example.org
+
+--V3pgTSGev7krnLgdPlHjOEC2m7nXRICcd--
+
+--vtyx5lhB7z5dcex6MXWhyspN3Wknd6ZJI
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+gDD3noib51tTJdHxyYI2OhGh9Hz4N0m4qJzoGY10sFDYq6QV5RjHuPtl8aIxBd1G39pmftzsmtREz2i
+JYlUpWb1uYSdhAGhwoBG/dskWCVqJRHFJXQBX3ut8wvNnQzIwHqcjf0eFBzGQft7drhiMMbaCICAUX+
+ig7V3e5+zMdv68U8JvrjyEL9F6Q9VVkpaFOip3bwMZBCXCcubrjJe/TMu/NPF9Y8mbeM4/5Jfr+Bas/
+4kUsKLTayjKhOcjKg/l+GXQdqxdsZ0yUO7utP4lhXDNFn1yC8hwWpiF59UQ1dpIAP5RGgruZn4pjanp
+RcOHF39+llLs/3rOrnYiB/5k
+-----END PGP SIGNATURE-----
+
+--vtyx5lhB7z5dcex6MXWhyspN3Wknd6ZJI--
